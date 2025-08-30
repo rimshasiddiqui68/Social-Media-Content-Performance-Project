@@ -13,9 +13,6 @@ The ultimate goal is to provide actionable insights that guide strategy for boos
 🧠 Help content strategists optimize timing, format, and platform use
 
 ## 🔍 Problem Statements  
-[🔁 Home](https://github.com/rimshasiddiqui68/Social-Media-Content-Performance-Project/edit/main/README.md#table-of-content)
-
-
 
 The dashboard is designed to answer the following business questions:
 
@@ -50,3 +47,5 @@ Problem Statements / Key Questions:
 - Which payment method is most popular among different genders?
 - Do members vs non-members spend differently?
 - How does branch location influence spending behavior?
+
+  
