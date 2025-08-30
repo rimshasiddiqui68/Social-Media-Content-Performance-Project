@@ -49,3 +49,16 @@ Problem Statements / Key Questions:
 - How does branch location influence spending behavior?
 
   
+## Page 1 – Overview
+
+#### Here are the important key performance indicators (KPIs) in detail:
+* Total Post Generated : 5000
+* Total Engagement : 646M
+* Avg_Engagement : 15.28%
+* Total Views : 4806M
+* Total Impression : 5767M
+* Total Shares : 267M
+* Total Comments : 193M
+* Total Likes : 844M
+
+  
