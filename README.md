@@ -1,7 +1,4 @@
 # Social-Media-Content-Performance-Project
-
-## Table of Content
-
  
 ## Project Overview
 The purpose of this dashboard is to analyze social media content performance across multiple platforms (Facebook, Instagram, LinkedIn, TikTok, X.com, and YouTube). It tracks engagement, impressions, views, clicks, and shares, while also highlighting content categories, post types, hashtags, and regional engagement.
